@@ -17,7 +17,7 @@ program
     console.log("");
     console.log("Examples:");
     console.log(
-      "  $ node script.js -t recipient_email@gmail.com file1.txt file2.txt file3.txt"
+      "  $ sendfiles -t recipient_email@gmail.com file1.txt file2.txt file3.txt"
     );
     console.log("");
   });
