@@ -47,8 +47,8 @@ for (let i = 0; i < program.args.length; i++) {
 
 sendEmail({
   email: program._optionValues.to,
-  subject: "Testing",
-  message: "This is a test message",
+  subject: "Files sent through sendFile ",
+  message: "This is the file sent through sendFile npm package ",
   attachements: fileContents,
 })
   .then((res) => {
