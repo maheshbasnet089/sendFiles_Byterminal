@@ -4,11 +4,11 @@
   "description": "Send files from terminal without using your gmail or any other email service. This is a command line tool that can used to send files from terminal to the receiver's email address ",
   "main": "index.js",
   "bin": {
-    "sendFile": "app.js"
+    "sendFiles": "app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maheshbasnet089/sendFile_Byterminal.git"
+    "url": "git+https://github.com/maheshbasnet089/sendFiles_Byterminal.git"
   },
   "keywords": [
     "sendFileFromTerminal",
