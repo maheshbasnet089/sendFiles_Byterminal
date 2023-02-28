@@ -1,7 +1,7 @@
 {
-  "name": "sendfile",
-  "version": "1.0.0",
-  "description": "Send files from terminal without using your gmail or any other email service. This is a command line tool that can used to send files from terminal to the receiver's email address ",
+  "name": "sendfiles",
+  "version": "1.1.0",
+  "description": "CommandLine tool for sending files faster ",
   "main": "index.js",
   "bin": {
     "sendFiles": "app.js"
