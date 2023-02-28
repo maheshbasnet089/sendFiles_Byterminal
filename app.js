@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-const app = require("express")();
 require("dotenv").config();
 const sendEmail = require("./services/sendEmail");
 const fs = require("fs");
