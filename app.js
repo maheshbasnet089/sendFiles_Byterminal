@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-require("dotenv").config();
+
 const sendEmail = require("./services/sendEmail");
 const fs = require("fs");
 const commander = require("commander");
