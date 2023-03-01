@@ -1,6 +1,6 @@
 {
   "name": "sendfiles",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "CommandLine tool for sending files faster ",
   "main": "index.js",
   "bin": {
